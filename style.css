@@ -128,16 +128,15 @@ span {
     font-weight: 600px;
     display: flex;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 60px;
 
 }
 
 .esas {
     display: flex;
     flex-wrap: wrap;
-    width: 1300px;
+    width: 100%;
     gap: 50px;
-    margin-left: 21px;
 
 }
 
